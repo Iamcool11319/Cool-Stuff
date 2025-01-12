@@ -2,7 +2,7 @@ import random
 
 
 def question1():
-    question = input("Who is the star player of the Boston Celtics (full name)\n").lower()
+    question = input("Who is the best player of the Boston Celtics (full name)\n").lower()
     if question == 'jayson tatum':
         return 'Correct'
     else:
@@ -10,7 +10,7 @@ def question1():
 
 
 def question2():
-    question = input("Who is the star player of the Brooklyn Nets (full name)\n").lower()
+    question = input("Who is the best player of the Brooklyn Nets (full name)\n").lower()
     if question == 'cameron johnson':
         return 'Correct'
     else:
@@ -18,7 +18,7 @@ def question2():
 
 
 def question3():
-    question = input("Who is the star player of the New York Knicks? (full name)\n").lower()
+    question = input("Who is the best player of the New York Knicks? (full name)\n").lower()
     if question == 'karl-anthony towns' or 'karl anthony towns':
         return 'Correct'
     else:
@@ -26,7 +26,7 @@ def question3():
 
 
 def question4():
-    question = input("Who is the star player of the Philadelphia 69ers (cough ahem) I mean 76ers (full name)\n").lower()
+    question = input("Who is the best player of the Philadelphia 69ers (cough ahem) I mean 76ers (full name)\n").lower()
     if question == 'joel embiid':
         return 'Correct'
     else:
@@ -34,7 +34,7 @@ def question4():
 
 
 def question5():
-    question = input("Who is the star player of the Toronto Raptors (full name)\n").lower()
+    question = input("Who is the best player of the Toronto Raptors (full name)\n").lower()
     if question == 'rj barrett':
         return 'Correct'
     else:
@@ -42,7 +42,7 @@ def question5():
 
 
 def question6():
-    question = input("Who is the star player of the Chicago Bulls (full name)\n").lower()
+    question = input("Who is the best player of the Chicago Bulls (full name)\n").lower()
     if question == 'nikola vucevic':
         return 'Correct'
     else:
@@ -50,7 +50,7 @@ def question6():
 
 
 def question7():
-    question = input("Who is the star player of the Cleveland Cavaliers (full name)\n").lower()
+    question = input("Who is the best player of the Cleveland Cavaliers (full name)\n").lower()
     if question == 'donovan mitchell':
         return 'Correct'
     else:
@@ -58,7 +58,7 @@ def question7():
 
 
 def question8():
-    question = input("Who is the star player of the Detroit Pistons (full name)\n").lower()
+    question = input("Who is the best player of the Detroit Pistons (full name)\n").lower()
     if question == 'cade cunningham':
         return 'Correct'
     else:
@@ -66,7 +66,7 @@ def question8():
 
 
 def question9():
-    question = input("Who is the star player of the Indiana Pacers (full name)\n").lower()
+    question = input("Who is the best player of the Indiana Pacers (full name)\n").lower()
     if question == 'pascal siakam':
         return 'Correct'
     else:
@@ -74,7 +74,7 @@ def question9():
 
 
 def question10():
-    question = input("Who is the star player of the Milwaukee Bucks (full name)\n").lower()
+    question = input("Who is the best player of the Milwaukee Bucks (full name)\n").lower()
     if question == 'giannis antetokounmpo':
         return 'Correct'
     else:
@@ -82,7 +82,7 @@ def question10():
 
 
 def question11():
-    question = input("Who is the star player of the Atlanta Hawks (full name)\n").lower()
+    question = input("Who is the best player of the Atlanta Hawks (full name)\n").lower()
     if question == 'trae young':
         return 'Correct'
     else:
@@ -90,7 +90,7 @@ def question11():
 
 
 def question12():
-    question = input("Who is the star player of the Charlotte Hornets (full name)\n").lower()
+    question = input("Who is the best player of the Charlotte Hornets (full name)\n").lower()
     if question == 'lamelo ball':
         return 'Correct'
     else:
@@ -98,7 +98,7 @@ def question12():
 
 
 def question13():
-    question = input("Who is the star player of the Miami Heat (full name)\n").lower()
+    question = input("Who is the best player of the Miami Heat (full name)\n").lower()
     if question == 'tyler herro':
         return 'Correct'
     else:
@@ -106,7 +106,7 @@ def question13():
 
 
 def question14():
-    question = input("Who is the star player of the Orlando Magic (full name)\n").lower()
+    question = input("Who is the best player of the Orlando Magic (full name)\n").lower()
     if question == 'franz wagner':
         return 'Correct'
     else:
@@ -114,7 +114,7 @@ def question14():
 
 
 def question15():
-    question = input("Who is the star player of the Washington Wizards (full name)\n").lower()
+    question = input("Who is the best player of the Washington Wizards (full name)\n").lower()
     if question == 'jordan poole':
         return 'Correct'
     else:
@@ -122,7 +122,7 @@ def question15():
 
 
 def question16():
-    question = input("Who is the star player of the Denver Nuggets (full name)\n").lower()
+    question = input("Who is the best player of the Denver Nuggets (full name)\n").lower()
     if question == 'nikola jokic':
         return 'Correct'
     else:
@@ -130,7 +130,7 @@ def question16():
 
 
 def question17():
-    question = input("Who is the star player of the Minnesota Timberwolves (full name)\n").lower()
+    question = input("Who is the best player of the Minnesota Timberwolves (full name)\n").lower()
     if question == 'anthony edwards':
         return 'Correct'
     else:
@@ -138,7 +138,7 @@ def question17():
 
 
 def question18():
-    question = input("Who is the star player of the Oklahoma City Thunder (full name)\n").lower()
+    question = input("Who is the best player of the Oklahoma City Thunder (full name)\n").lower()
     if question == 'shai gilgeous-alexander' or 'shai gilgeous alexander':
         return 'Correct'
     else:
@@ -146,7 +146,7 @@ def question18():
 
 
 def question19():
-    question = input("Who is the star player of the Portland Trail Blazers (full name)\n").lower()
+    question = input("Who is the best player of the Portland Trail Blazers (full name)\n").lower()
     if question == 'anfernee simons':
         return 'Correct'
     else:
@@ -154,7 +154,7 @@ def question19():
 
 
 def question20():
-    question = input("Who is the star player of the Utah Jazz (full name)\n").lower()
+    question = input("Who is the best player of the Utah Jazz (full name)\n").lower()
     if question == 'lauri markkanen':
         return 'Correct'
     else:
@@ -162,7 +162,7 @@ def question20():
 
 
 def question21():
-    question = input("Who is the star player of the Golden State Warriors (full name)\n").lower()
+    question = input("Who is the best player of the Golden State Warriors (full name)\n").lower()
     if question == 'stephen curry':
         return 'Correct'
     elif question == 'Steph Curry':
@@ -172,7 +172,7 @@ def question21():
 
 
 def question22():
-    question = input("Who is the star player of the Los Angeles Clippers (full name)\n").lower()
+    question = input("Who is the best player of the Los Angeles Clippers (full name)\n").lower()
     if question == 'james harden':
         return 'Correct'
     else:
@@ -180,7 +180,7 @@ def question22():
 
 
 def question23():
-    question = input("Who is the star player of the Los Angeles Lakers (full name)\n").lower()
+    question = input("Who is the best player of the Los Angeles Lakers (full name)\n").lower()
     if question == 'anthony davis':
         return 'Correct'
     else:
@@ -188,7 +188,7 @@ def question23():
 
 
 def question24():
-    question = input("Who is the star player of the Phoenix Suns (full name)\n").lower()
+    question = input("Who is the best player of the Phoenix Suns (full name)\n").lower()
     if question == 'kevin durant':
         return 'Correct'
     else:
@@ -196,7 +196,7 @@ def question24():
 
 
 def question25():
-    question = input("Who is the star player of the Sacramento Kings (full name)\n").lower()
+    question = input("Who is the best player of the Sacramento Kings (full name)\n").lower()
     if question == "de'aaron fox" or "de aaron fox":
         return 'Correct'
     else:
@@ -204,7 +204,7 @@ def question25():
 
 
 def question26():
-    question = input("Who is the star player of the Dallas Mavericks (full name)\n").lower()
+    question = input("Who is the best player of the Dallas Mavericks (full name)\n").lower()
     if question == 'luka doncic':
         return 'Correct'
     else:
@@ -212,7 +212,7 @@ def question26():
 
 
 def question27():
-    question = input("Who is the star player of the Houston Rockets (full name)\n").lower()
+    question = input("Who is the best player of the Houston Rockets (full name)\n").lower()
     if question == 'alperen sengun':
         return 'Correct'
     else:
@@ -220,7 +220,7 @@ def question27():
 
 
 def question28():
-    question = input("Who is the star player of the Memphis Grizzlies (full name)\n").lower()
+    question = input("Who is the best player of the Memphis Grizzlies (full name)\n").lower()
     if question == 'ja morant':
         return 'Correct'
     else:
@@ -228,7 +228,7 @@ def question28():
 
 
 def question29():
-    question = input("Who is the star player of the New Orleans Pelicans (full name)\n").lower()
+    question = input("Who is the best player of the New Orleans Pelicans (full name)\n").lower()
     if question == 'cj mccollum':
         return 'Correct'
     else:
@@ -236,7 +236,7 @@ def question29():
 
 
 def question30():
-    question = input("Who is the star player of the San Antonio Spurs (full name)\n").lower()
+    question = input("Who is the best player of the San Antonio Spurs (full name)\n").lower()
     if question == 'victor wembanyama':
         return 'Correct'
     else:
