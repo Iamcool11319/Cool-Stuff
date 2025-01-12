@@ -27,10 +27,10 @@ def question3():
 
 def question4():
     question = input("Who is the star player of the Philadelphia 69ers (cough ahem) I mean 76ers (full name)\n").lower()
-    if question == 'tyrese maxey':
+    if question == 'joel embiid':
         return 'Correct'
     else:
-        return 'Incorrect, answer was Tyrese Maxey because Joel Embiid in big injury and he sucks right now'
+        return 'Incorrect, answer was Joel Embiid'
 
 
 def question5():
@@ -43,10 +43,10 @@ def question5():
 
 def question6():
     question = input("Who is the star player of the Chicago Bulls (full name)\n").lower()
-    if question == 'zach lavine':
+    if question == 'nikola vucevic':
         return 'Correct'
     else:
-        return 'Incorrect, answer was Zach LaVine'
+        return 'Incorrect, answer was Nikola Vucevic'
 
 
 def question7():
@@ -173,10 +173,10 @@ def question21():
 
 def question22():
     question = input("Who is the star player of the Los Angeles Clippers (full name)\n").lower()
-    if question == 'norman powell':
+    if question == 'james harden':
         return 'Correct'
     else:
-        return 'Incorrect, answer was Norman Powell'
+        return 'Incorrect, answer was James Harden'
 
 
 def question23():
@@ -213,18 +213,18 @@ def question26():
 
 def question27():
     question = input("Who is the star player of the Houston Rockets (full name)\n").lower()
-    if question == 'jalen green':
+    if question == 'alperen sengun':
         return 'Correct'
     else:
-        return 'Incorrect, answer was Jalen Green'
+        return 'Incorrect, answer was Alperen Sengun'
 
 
 def question28():
-    question = input("Who is the star player of the Memphis Grizzlies (full name and period where you need)\n").lower()
-    if question == 'jaren jackson jr.':
+    question = input("Who is the star player of the Memphis Grizzlies (full name)\n").lower()
+    if question == 'ja morant':
         return 'Correct'
     else:
-        return 'Incorrect, answer was Jaren Jackson Jr.'
+        return 'Incorrect, answer was Ja Morant'
 
 
 def question29():
