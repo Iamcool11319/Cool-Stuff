@@ -18,8 +18,8 @@ def question2():
 
 
 def question3():
-    question = input("Who is the best player of the New York Knicks? (full name)\n").lower()
-    if question == 'karl-anthony towns' or 'karl anthony towns':
+    question = input("Who is the best player of the New York Knicks? (full name with necessary punctuation)\n").lower()
+    if question == 'karl-anthony towns':
         return 'Correct'
     else:
         return 'Incorrect, answer was Karl-Anthony Towns'
@@ -67,10 +67,10 @@ def question8():
 
 def question9():
     question = input("Who is the best player of the Indiana Pacers (full name)\n").lower()
-    if question == 'pascal siakam':
+    if question == 'tyrese haliburton':
         return 'Correct'
     else:
-        return 'Incorrect, answer was Pascal Siakam'
+        return 'Incorrect, answer was Tyrese Haliburton'
 
 
 def question10():
@@ -107,10 +107,10 @@ def question13():
 
 def question14():
     question = input("Who is the best player of the Orlando Magic (full name)\n").lower()
-    if question == 'franz wagner':
+    if question == 'paolo banchero':
         return 'Correct'
     else:
-        return 'Incorrect, answer was Franz Wagner'
+        return 'Incorrect, answer was Paolo Banchero'
 
 
 def question15():
@@ -138,8 +138,8 @@ def question17():
 
 
 def question18():
-    question = input("Who is the best player of the Oklahoma City Thunder (full name)\n").lower()
-    if question == 'shai gilgeous-alexander' or 'shai gilgeous alexander':
+    question = input("Who is the best player of the Oklahoma City Thunder (full name with necessary punctuation)\n").lower()
+    if question == 'shai gilgeous-alexander':
         return 'Correct'
     else:
         return 'Incorrect, answer was Shai Gilgeous-Alexander'
@@ -196,8 +196,8 @@ def question24():
 
 
 def question25():
-    question = input("Who is the best player of the Sacramento Kings (full name)\n").lower()
-    if question == "de'aaron fox" or "de aaron fox":
+    question = input("Who is the best player of the Sacramento Kings (full name with necessary punctuation)\n").lower()
+    if question == "de'aaron fox":
         return 'Correct'
     else:
         return "Incorrect, answer was De'Aaron Fox"
@@ -229,10 +229,10 @@ def question28():
 
 def question29():
     question = input("Who is the best player of the New Orleans Pelicans (full name)\n").lower()
-    if question == 'cj mccollum':
+    if question == 'zion williamson':
         return 'Correct'
     else:
-        return 'Incorrect, answer was CJ McCollum'
+        return 'Incorrect, answer was Zion Williamson'
 
 
 def question30():
